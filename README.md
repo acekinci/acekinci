@@ -1,15 +1,11 @@
-
-
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="left">I’m a junior Frontend Developer based in Istanbul, Turkey.</h3>
+<h3 align="left">I’m a JR Frontend Developer based in Istanbul, Turkey.</h3>
     
 <h3 align="left">
 I was born in İstanbul in 2003. I have been working as a intern front-end developer for 1 years and I used, a lot of modern technologies during this time, such as HTML5, CSS3, Bootstrap, Tailwind Css, SCSS and LESS. Nowadays, I'm trying to improve my Javascript skills and learning about Loops, Arrays, Objects etc. And also I’m interested in React. Besides, I’m a quick learner and researcher, I know that I can find any information with google.
 </h3>
 
 <br>
-
-
 
 - 🔭 I’m currently working on **[my portfolio website](https://acekinci.github.io/My-Portfolio/).**
 - 🌱 I’m currently learning React JS and Javascript 
