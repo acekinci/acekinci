@@ -5,6 +5,6 @@ I was born in İstanbul in 2003. I have been working as a intern front-end devel
 Skills:  REACT / JS / HTML / CSS / TAİLWİND CSS / BOOTSTRAP
 
 - 🔭 I’m currently working on **[my portfolio website](https://acekinci.github.io/My-Portfolio/).**
-
+- 🌱 I’m currently learning React JS and Javascript 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acekinci&show_icons=true&theme=radical)
