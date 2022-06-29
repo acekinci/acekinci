@@ -42,3 +42,4 @@ I was born in İstanbul in 2003. I have been working as a intern front-end devel
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acekinci&show_icons=true&theme=radical)
+<img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=acekinci&theme=radical" alt="acekinci" />  
