@@ -7,4 +7,8 @@ Skills:  REACT / JS / HTML / CSS / TAİLWİND CSS / BOOTSTRAP
 - 🔭 I’m currently working on **[my portfolio website](https://acekinci.github.io/My-Portfolio/).**
 - 🌱 I’m currently learning React JS and Javascript 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmet-can-ekinci//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://acekinci.github.io/My-Portfolio/)  
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acekinci&show_icons=true&theme=radical)
