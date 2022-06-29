@@ -6,6 +6,13 @@ I was born in İstanbul in 2003. I have been working as a intern front-end devel
 
 - 🔭 I’m currently working on **[my portfolio website](https://acekinci.github.io/My-Portfolio/).**
 - 🌱 I’m currently learning React JS and Javascript 
+- 📝 I write articles on [my blog.](https://medium.com/@acekinci)</b>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=acekinci&color=lightgray)
+
+<hr>
 
 <br></br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmet-can-ekinci//)  
