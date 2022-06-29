@@ -9,7 +9,6 @@ I was born in İstanbul in 2003. I have been working as a intern front-end devel
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmet-can-ekinci//)  
 <br></br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://acekinci.github.io/My-Portfolio/)  
-<br></br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +26,7 @@ I was born in İstanbul in 2003. I have been working as a intern front-end devel
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  
 <br/><br/>
+<br></br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acekinci&show_icons=true&theme=radical)
